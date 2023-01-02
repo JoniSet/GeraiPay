@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="426.703"
+    android:viewportHeight="426.703">
+  <path
+      android:pathData="M213.352,213.352m-213.352,0a213.352,213.352 0,1 1,426.703 0a213.352,213.352 0,1 1,-426.703 0"
+      android:fillColor="#459ffd"/>
+  <path
+      android:pathData="m134.639,64.005l157.425,0c8.151,0 14.759,6.608 14.759,14.759l0,269.172c0,8.151 -6.608,14.759 -14.759,14.759l-157.425,0c-8.151,0 -14.759,-6.608 -14.759,-14.759l0,-269.172c-0.001,-8.151 6.608,-14.759 14.759,-14.759z"
+      android:fillColor="#575b6d"/>
+  <path
+      android:pathData="m131.124,90.01l164.455,0l0,229.818l-164.455,0z"
+      android:fillColor="#69b0ee"/>
+  <path
+      android:pathData="M213.352,340.7m-10.422,0a10.422,10.422 0,1 1,20.843 0a10.422,10.422 0,1 1,-20.843 0"
+      android:fillColor="#828a9e"/>
+  <path
+      android:pathData="m226.545,74.336l-26.387,0c-1.787,0 -3.236,1.449 -3.236,3.236s1.449,3.236 3.236,3.236l26.383,0c1.787,0 3.237,-1.449 3.237,-3.236s-1.449,-3.236 -3.237,-3.236z"
+      android:fillColor="#828a9e"/>
+  <path
+      android:pathData="m267.691,199.692c-30.033,-29.962 -78.651,-29.962 -108.684,0l-8.582,-8.582c34.775,-34.698 91.073,-34.698 125.847,0z"
+      android:fillColor="#eeefee"/>
+  <path
+      android:pathData="m250.527,216.86c-20.546,-20.497 -53.806,-20.497 -74.353,0l-8.582,-8.582c25.288,-25.232 66.228,-25.232 91.517,0z"
+      android:fillColor="#eeefee"/>
+  <path
+      android:pathData="m233.36,234.023c-11.059,-11.031 -28.959,-11.031 -40.018,0l-8.585,-8.582c15.8,-15.773 41.389,-15.773 57.189,0z"
+      android:fillColor="#eeefee"/>
+  <path
+      android:pathData="m204.569,257.984c-4.823,-4.85 -4.801,-12.692 0.05,-17.515s12.692,-4.801 17.515,0.05c4.803,4.831 4.803,12.634 0,17.465 -4.823,4.85 -12.664,4.873 -17.515,0.05 -0.016,-0.016 -0.033,-0.033 -0.05,-0.05z"
+      android:fillColor="#eeefee"/>
+</vector>
+
+<!--x, y, -pos_kiri_bawah -pos_kiri_atas, -->
+

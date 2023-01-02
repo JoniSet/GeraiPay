@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerai Pay</string>
+    <string name="username">Username</string>
+    <string name="saldo_value">500.000</string>
+    <string name="phonenum">081234567890</string>
+    <string name="date">19 November 2018</string>
+    <string name="status">Refund</string>
+    <string name="product_name_transaction">Pulsa M3 Regular Rp 50.000</string>
+    <string name="nohp">No HP : </string>
+    <string name="currency">Rp.</string>
+    <string name="upgrade">Upgrade Agen</string>
+    <string name="notif_subtitle">Bagi yang deposit, mohon tunggu maks 1x24 jam</string>
+    <string name="syarat">Syarat dan Ketentuan</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="pressbackagain">Tekan lagi untuk keluar.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="list_jk">
+        <item>Jenis Kelamin</item>
+        <item>Laki - laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string name="default_notification_channel_id">Optima PPOB Notification</string>
+
+</resources>

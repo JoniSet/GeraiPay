@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006BFF</color>
+    <color name="colorPrimaryDark">#0059D4</color>
+    <color name="colorAccent">#f59123</color>
+    <color name="layout_bg">#f5f5f5</color>
+    <color name="blue">#459FFD</color>
+    <color name="bg">#fbfbfc</color>
+
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+    <color name="putih">#FFFFFF</color>
+    <color name="hitam">#000</color>
+    <color name="hijau">#43A047</color>
+    <color name="green_forest.primary">#43A047</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="text_24">#242424</color>
+    <color name="text_33">#333333</color>
+    <color name="orange_FF7">#FF785B</color>
+    <color name="orange_EE9">#EE9545</color>
+
+
+</resources>
